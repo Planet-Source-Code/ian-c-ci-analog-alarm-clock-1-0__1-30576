@@ -1,0 +1,12 @@
+frmClockAnalog = 191, 0, 502, 197, Z, 0, -2, 190, 196, C
+modEnsureMinimumHeigth = 44, 44, 330, 315, 
+modEnsureMinimumWidth = 66, 66, 353, 337, 
+modGetSmallerValue = 88, 88, 375, 359, C
+modCoordinate = 22, 22, 308, 293, 
+modResizeWithParent = 44, 44, 431, 315, C
+CircleObject = -1, 197, 503, 400, 
+modMoveTopRight = 132, 132, 419, 403, C
+frmClockOptions = 149, 69, 467, 320, , 0, 0, 387, 271, C
+modIsMinimizedOrMaximized = 110, 110, 397, 381, C
+modPlaySound = 0, 0, 287, 271, C
+modArc = 22, 22, 394, 293, 
